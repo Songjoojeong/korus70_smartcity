@@ -58,7 +58,7 @@
 ```
 .
 ├── README.md
-├── korus70_smartcity.ipynb        # 전체 분석 파이프라인 (셀 1~19)
+├── korus70_smartcity.ipynb        # 전체 분석 파이프라인 
 ├── outputs/
 │   ├── model_results_two_track.csv     # 트랙 A/B 모델 성능 비교
 │   ├── *_shap_meanabs_track*.csv        # SHAP 평균 |값| (PM2.5/NO2 × A/B)
